@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: OAuth2 Auth Server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sravankk
+Implementation-Vendor-Id: org.test
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/oauth2-auths
+ erver/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.AuthserverApplication
+
